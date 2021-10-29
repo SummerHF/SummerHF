@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[SummerHF's GitHub stats](https://github-readme-stats.vercel.app/api?username=summerhf&show_icons=true&theme=radical)
+![SummerHF's GitHub stats](https://github-readme-stats.vercel.app/api?username=summerhf&show_icons=true&theme=radical)
 
 
 **SummerHF/SummerHF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
